@@ -1,6 +1,11 @@
-# Data Science Project GitHub Repo Template
+# Pokemon Go Shiny Oddity Calculator
 
-This repo provides a template structure for Python-based data science projects. It includes commonly used directories, including `notebooks/`, `data/`, and `src/` directories, and files for efficient setup of the src code and conda environment. Feel free to customize the directory for your usage!
+This repo contains code for an "oddity" calculator for Pokemon Go (PoGo)! The idea for this project came from my PoGo friend group who commented that I had a very lucky shiny appearance/catch rate. I assumed I was just being lucky with the game's random number generator, but I was extremely curious to do some investigating after I had a streak of 6 days of getting at least one shiny per day.
+
+I figured this would be a fun way to practice some statistics and build a new webapp, so here we are!
+
+## What is Pokemon Go?
+
 
 ## Initial Setup
 
