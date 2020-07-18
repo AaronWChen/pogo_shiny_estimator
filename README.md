@@ -50,8 +50,12 @@ pip install requirements.txt
 
 from the repo's base directory to use the same environment I have.
 
-
 ### Make this conda environment available as a kernel in jupyter
 
 Once you've gotten the environment set up, you can run the following in your terminal 
 ```python -m ipykernel install --user --name pogo_shiny --display-name "PoGo_Shiny_Env"```
+
+### Run!
+
+Once all that is set up, you can open a terminal in the repo's notebooks folder, type
+``` jupyter notebook``` and opening the ```pogo_shiny_predictor.ipynb``` file
