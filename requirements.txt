@@ -1,7 +1,9 @@
 attrs==19.3.0
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+bokeh @ file:///home/conda/feedstock_root/build_artifacts/bokeh_1592869569111/work
 certifi==2020.6.20
+cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -12,21 +14,28 @@ ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1592619931925/work
 Jinja2==2.11.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1594732094290/work
 jupyter-console==6.1.0
 jupyter-core==4.6.3
+kiwisolver==1.2.0
 MarkupSafe==1.1.1
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1592576119134/work
 mistune==0.8.4
 nbconvert==5.6.1
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1594078840609/work
 numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1594919719014/work
+olefile==0.46
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1592421989564/work
 pandocfilters==1.4.2
 parso==0.7.0
+patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1594213113401/work
 prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
 ptyprocess==0.6.0
@@ -38,16 +47,23 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.16.0
 python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
 pyzmq==19.0.1
 qtconsole @ file:///home/conda/feedstock_root/build_artifacts/qtconsole_1592845750760/work
 QtPy==1.9.0
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1589920858304/work
 scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1594922068937/work
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1591878760859/work
 Send2Trash==1.5.0
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+statsmodels @ file:///home/conda/feedstock_root/build_artifacts/statsmodels_1591963249119/work
 terminado==0.8.3
 testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
 tornado==6.0.4
 traitlets==4.3.3
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1588470653596/work
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1592931742287/work
 webencodings==0.5.1
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1594164345747/work
