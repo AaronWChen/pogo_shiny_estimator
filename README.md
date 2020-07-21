@@ -59,3 +59,8 @@ Once you've gotten the environment set up, you can run the following in your ter
 
 Once all that is set up, you can open a terminal in the repo's notebooks folder, type
 ``` jupyter notebook``` and opening the ```pogo_shiny_predictor.ipynb``` file
+
+
+## To Do
+1. Create interactive plots for probabilities. Likely using Bokeh
+2. Create webapp/front end
