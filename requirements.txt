@@ -13,7 +13,7 @@ ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_159323546760
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1592619931925/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1594732094290/work
