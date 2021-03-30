@@ -39,7 +39,7 @@ Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1594213113401/
 prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
 ptyprocess==0.6.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 PyQt5==5.12.3
 PyQt5-sip==4.19.18
