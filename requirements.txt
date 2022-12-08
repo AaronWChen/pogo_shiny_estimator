@@ -2,7 +2,7 @@ attrs==19.3.0
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 bokeh @ file:///home/conda/feedstock_root/build_artifacts/bokeh_1592869569111/work
-certifi==2020.6.20
+certifi==2022.12.7
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
